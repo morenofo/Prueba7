@@ -1,0 +1,21 @@
+PODS:
+  - SAConfettiView (0.1.8)
+
+DEPENDENCIES:
+  - SAConfettiView (from `https://github.com/morenofo/SAConfettiView.git`)
+
+EXTERNAL SOURCES:
+  SAConfettiView:
+    :git: https://github.com/morenofo/SAConfettiView.git
+
+CHECKOUT OPTIONS:
+  SAConfettiView:
+    :commit: bb37a67328d5c99c59c11486170f5a595a62828d
+    :git: https://github.com/morenofo/SAConfettiView.git
+
+SPEC CHECKSUMS:
+  SAConfettiView: c87031a2280659261b730fce3669fb10e73636ee
+
+PODFILE CHECKSUM: dfd519e1500767da56e8c4d82cc3625f38e96f35
+
+COCOAPODS: 1.9.3
